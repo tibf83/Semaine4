@@ -5,6 +5,7 @@
 2. Utilisation de l'API d'[Open Food Facts](http://fr.openfoodfacts.org/decouvrir) avec Ruby.  
 Cf. Fichier "OpenFoodFacts-API.rb" ;  
   
-## Compléments :  
+## Complément :  
   
-Certificat OpenClassrooms "[Comprendre le web](https://openclassrooms.com/course-certificates/35793233)".
+Certificat OpenClassrooms "[Comprendre le web](https://openclassrooms.com/course-certificates/35793233)" ;  
+(Dans le champ libre "Last name", rentrer "Folgueral").
