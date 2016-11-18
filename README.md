@@ -7,5 +7,4 @@ Cf. Fichier "OpenFoodFacts-API.rb" ;
   
 ## Complément :  
   
-Certificat OpenClassrooms "[Comprendre le web](https://openclassrooms.com/course-certificates/35793233)" ;  
-(Dans le champ libre "Last name", rentrer "Folgueral").
+Certificat OpenClassrooms "[Comprendre le web](https://openclassrooms.com/course-certificates/35793233)" ;
